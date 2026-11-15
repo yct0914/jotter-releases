@@ -1,16 +1,11 @@
 {
-  "version": "1.2.1",
-  "build": 152,
-  "url": "https://github.com/yct0914/jotter-releases/releases/download/v1.2.1/Jotter-1.2.1.zip",
-  "sha256": "8c0e64c7d72a86360226fe7f4de1f6cfe28d882be7b4f778cf6cfaced5bd8247",
-  "size": 17946863,
+  "version": "1.2.2",
+  "build": 154,
+  "url": "https://github.com/yct0914/jotter-releases/releases/download/v1.2.2/Jotter-1.2.2.zip",
+  "sha256": "b25bd51eebad143047eb0ef2d2ac24d289a9aaf6cb5dd7486bc322ac3c77d531",
+  "size": 17946946,
   "minSystem": "13.0",
   "notes": [
-    "Markdown 里能写评论：选中一段字按 ⌥⌘M（或格式条上的「评论」），评论卡片在正文右边；「拷贝全部」拷出文件路径、第几行、原文和评论，直接粘给 AI",
-    "AI 助手能自己取评论：`jot comments 文件`，取过的评论变淡，不会重复给",
-    "评论只存在 Jotter 里，文件本身一个字不改；原文、文档两边都能看、都能加",
-    "草稿里贴的图写完整路径，草稿内容拷给 AI 时图片路径是全的（以前的草稿会自动改过来）",
-    "列表下面的空行按删除键不再在「空行」和「空的一项」之间来回切",
-    "打开整个主目录时，⌘P 也能按文件名找到深层、隐藏文件夹里的文件（系统和缓存文件夹不再收进搜索）"
+    "写评论时用输入法打字，回车只把字打出来，不再直接把评论加上（公式、替换框同样修好）"
   ]
 }
